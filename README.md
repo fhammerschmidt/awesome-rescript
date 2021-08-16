@@ -1,6 +1,6 @@
 ### **Awesome ReScript** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome things about the ReScript programming language and toolchain. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. [Contributions](#contributions) are always welcome.
+A collection of awesome things about the ReScript programming language and toolchain. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. [Contributions](#contribute) are always welcome.
 
 **NOTE**: This repository is mainly for ReScript materials where the source code is ReScript (`.res` and `.resi` files). For materials written in ReasonML, please use the [awesome-reasonml](https://github.com/vramana/awesome-reasonml) repository.
 
@@ -8,7 +8,7 @@ A collection of awesome things about the ReScript programming language and toolc
   - [Official Resources](#official-resources)
   - [Blogposts](#blogposts)
   - [Tutorials](#tutorials)
-  - [Talks, Videos, Livestreams](#talks)
+  - [Talks, Videos, Livestreams](#talks-videos-livestreams)
   - [Libraries and Bindings](#libraries-and-bindings)
 - [Example Apps](#example-apps)
 - [Contribute](#contribute)
@@ -51,7 +51,7 @@ Roughly sorted from newest to oldest. But some posts have no date, get updated s
 * [ReScript Tutorial by protoship.io](https://github.com/protoship/rescript-tutorial)
 * [ReScript GraphQL Tutorial by hasura](https://hasura.io/learn/graphql/rescript-react-apollo/introduction/)
 
-### Talks
+### Talks, Videos, Livestreams
 * 2021/04 - [@tom-sherman](https://github.com/tom-sherman) - NorfolkDevelopers - [Should you consider ReScript over Typescript for your next project?](https://youtu.be/XWgL51JSbGI)
 * 2020/10 - [@IwanKaramazow](https://github.com/IwanKaramazow) and [@serras](https://github.com/serras) - 47 Degrees - [Immutable Conversations - ReScript](https://youtu.be/IlykOL4Z0gw)
 ---
