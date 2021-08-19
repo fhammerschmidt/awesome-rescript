@@ -10,6 +10,7 @@ A collection of awesome things about the ReScript programming language and toolc
   - [Tutorials](#tutorials)
   - [Talks, Videos, Livestreams](#talks-videos-livestreams)
   - [Libraries and Bindings](#libraries-and-bindings)
+  - [Editor Support(#editor-support)
 - [Example Apps](#example-apps)
 - [Contribute](#contribute)
 
@@ -54,11 +55,24 @@ Roughly sorted from newest to oldest. But some posts have no date, get updated s
 ### Talks, Videos, Livestreams
 * 2021/04 - [@tom-sherman](https://github.com/tom-sherman) - NorfolkDevelopers - [Should you consider ReScript over Typescript for your next project?](https://youtu.be/XWgL51JSbGI)
 * 2020/10 - [@IwanKaramazow](https://github.com/IwanKaramazow) and [@serras](https://github.com/serras) - 47 Degrees - [Immutable Conversations - ReScript](https://youtu.be/IlykOL4Z0gw)
----
 
 ### Libraries and Bindings
 [ReScript Package Index](https://rescript-lang.org/packages)
 To discover libraries and bindings for ReScript, please use the [official package index tool](https://rescript-lang.org/packages). Libraries with the `rescript` keyword in their `package.json` will appear there, as well as manually added resources. If you happen to find no bindings for a library, please ask for it on the [forum]((https://forum.rescript-lang.org)). Chances are that somebody already wrote them, but kept them private, because maintaining a full set of bindings is always harder than tweaking them to one's specific needs.
+
+### Editor Support
+(also refer to the [official site](https://rescript-lang.org/docs/manual/latest/editor-plugins))
+
+#### General ReScript language support
+* [ReScript-VSCode](https://marketplace.visualstudio.com/items?itemName=chenglou92.rescript-vscode)
+* [ReScript-Sublime](https://github.com/rescript-lang/rescript-sublime)
+* [VIM-ReScript](https://github.com/rescript-lang/vim-rescript)
+* [Atom](https://atom.io/packages/ide-rescript)
+* [IDEA](https://github.com/giraud/reasonml-idea-plugin)
+* [Emacs](https://github.com/reasonml-editor/reason-mode)
+
+#### Other extensions
+* [vscode-rescript-relay](https://marketplace.visualstudio.com/items?itemName=GabrielNordeborn.vscode-rescript-relay)
 
 ---
 ### Example Apps
