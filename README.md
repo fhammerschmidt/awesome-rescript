@@ -39,7 +39,7 @@ A collection of awesome things about the ReScript programming language and toolc
 A lot of posts can be found via the [#rescript tag on dev.to](https://dev.to/t/rescript). So please check first, if a post is also there to keep this list small.
 Roughly sorted from newest to oldest. But some posts have no date, get updated sometimes or are collection links.
 
-* [ReScript for React Development](https://scalac.io/blog/rescript-for-react-development/)
+* [ReScript for React Development](https://scalac.io/blog/rescript-for-react-development/) by [@mishaszu](https://github.com/mishaszu)
 * [A Journey from JavaScript and TypeScript, to Rescript/React, via Elm, OCaml & Haskell.](https://alex.kleydints.com/a-journey-from-javascript-and-typescript-to-rescript-react-via-elm-ocaml-haskell-c878867b6fe6)
 * [Ongoing list of Rescript articles](https://dusty.phillips.codes/rescript/) by [@dusty-phillips](https://github.com/dusty-phillips)
 * [Rewriting a Project in ReScript](https://yangdanny97.github.io/blog/2021/07/09/Migrating-to-Rescript) by [@yangdanny97](https://github.com/yangdanny97)
