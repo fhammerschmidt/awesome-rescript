@@ -85,13 +85,13 @@ To discover libraries and bindings for ReScript, please use the [official packag
 
 - [vscode-rescript-relay](https://marketplace.visualstudio.com/items?itemName=GabrielNordeborn.vscode-rescript-relay)
 
-### Snippets in VSCode
+#### Snippets in VSCode
 
 The official snippets included with the ReScript-VSCode extension are available [here](https://github.com/rescript-lang/rescript-vscode/blob/master/snippets.json). You don't need to do anything to activate them; the extension already installs them.
 
 But you can also add your snippets if you want to. You can add them as user snippets or in a workspace through a `rescript.code-snippets` file in the `.vscode` folder in the root of your workspace / project. See an example of some user snippets [here](rescript.code-snippets). Read more about snippets in VSCode [here](https://code.visualstudio.com/docs/editor/userdefinedsnippets).
 
-### Keybindings in VSCode
+#### Keybindings in VSCode
 
 If you're coming to ReScript React from other languages, you probably find yourself writing `React.string("")` quite a lot, but maybe sometimes forgetting to add the `React.string` call.
 
