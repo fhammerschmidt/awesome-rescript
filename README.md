@@ -97,7 +97,7 @@ If you're coming to ReScript React from other languages, you probably find yours
 
 Luckily, VSCode has support for adding custom keybindings. If you open your `keybindings.json` and add the following, you can select any piece of code and press `cmd+k` followed by `s` to add the `React.string` call around the selection:
 
-```json
+```
 {
   {
     "key": "cmd+k s",
