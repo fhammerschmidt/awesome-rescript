@@ -123,6 +123,7 @@ Change the keybinding to your liking. Read more about keybindings in VSCode [her
 - [Coronate](https://github.com/johnridesabike/coronate) - A Swiss-style chess tournament manager for the web and desktop, written with ReScript-React. [(web demo)](https://johnridesa.bike/coronate/)
 - [Pomodoro](https://github.com/tkovs/pomodoro) - Simple pomodoro application. Written in ReScript and ReactJS. [(demo)](https://pomodoro.tkovs.com)
 - [rescript-intro](https://github.com/mellson/rescript-intro) - A calculator Using ReScript, React + Tailwind.
+- [Fire Emblem Chess](https://github.com/yangdanny97/fire-emblem-chess) - A pass & play chess game using ReScript, D3, and Howler [(demo)](https://yangdanny97.github.io/fire-emblem-chess/)
 
 ---
 
