@@ -57,7 +57,7 @@ Roughly sorted from newest to oldest. But some posts have no date, get updated s
 
 - [ReScript Tutorial by protoship.io](https://github.com/protoship/rescript-tutorial)
 - [ReScript GraphQL Tutorial by hasura](https://hasura.io/learn/graphql/rescript-react-apollo/introduction/)
-- [Bindings cookbook](https://github.com/rescriptbr/rescript-bindings-cookbook)
+- [Bindings cookbook by ReScriptBR](https://github.com/rescriptbr/rescript-bindings-cookbook)
 
 ### Talks, Videos, Livestreams
 
