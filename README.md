@@ -12,6 +12,7 @@ A collection of awesome things about the ReScript programming language and toolc
   - [Tutorials](#tutorials)
   - [Talks, Videos, Livestreams](#talks-videos-livestreams)
   - [Libraries and Bindings](#libraries-and-bindings)
+  - [Templates and Boilerplates](#templates-and-boilerplates)
   - [Editor Support](#editor-support)
 - [Example Apps](#example-apps)
 - [Contribute](#contribute)
