@@ -72,6 +72,11 @@ Roughly sorted from newest to oldest. But some posts have no date, get updated s
 [ReScript Package Index](https://rescript-lang.org/packages)
 To discover libraries and bindings for ReScript, please use the [official package index tool](https://rescript-lang.org/packages). Libraries with the `rescript` keyword in their `package.json` will appear there, as well as manually added resources. If you happen to find no bindings for a library, please ask for it on the [forum](<(https://forum.rescript-lang.org)>). Chances are that somebody already wrote them, but kept them private, because maintaining a full set of bindings is always harder than tweaking them to one's specific needs.
 
+### Templates and Boilerplates
+
+- [Next.js](https://github.com/ryyppy/rescript-nextjs-template) by [@ryyppy](https://github.com/ryyppy)
+- [Remix](https://github.com/tom-sherman/rescript-remix-template) by [@tom-sherman](https://github.com/tom-sherman)
+
 ### Editor Support
 
 (also refer to the [official site](https://rescript-lang.org/docs/manual/latest/editor-plugins))
