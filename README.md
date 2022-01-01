@@ -128,7 +128,7 @@ Change the keybinding to your liking. Read more about keybindings in VSCode [her
 ### Example Apps
 
 - [ReScript Game of Life](https://github.com/alanrsoares/rescript-game-of-life) - Conway's Game of Life written in ReScript using ReScript-React. [(demo)](https://alanrsoares.github.io/reason-game-of-life/)
-- [ReScript RealWorld example app](https://github.com/jihchi/rescript-react-realworld-example-app) - Another Medium.com clone written using ReScript-React
+- [ReScript RealWorld example app](https://github.com/jihchi/rescript-react-realworld-example-app) - Another Medium.com clone written using ReScript-React. [(demo)](https://rescript-react-realworld-example-app.vercel.app/)
 - [ReTurbo](https://github.com/RawToast/ReTurbo) - Pseudo 3D racing game built with Reprocessing [(demo)](https://pale-potato.surge.sh/)
 - [Coronate](https://github.com/johnridesabike/coronate) - A Swiss-style chess tournament manager for the web and desktop, written with ReScript-React. [(web demo)](https://johnridesa.bike/coronate/)
 - [Pomodoro](https://github.com/tkovs/pomodoro) - Simple pomodoro application. Written in ReScript and ReactJS. [(demo)](https://pomodoro.tkovs.com)
