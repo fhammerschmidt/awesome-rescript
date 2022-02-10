@@ -137,6 +137,7 @@ Change the keybinding to your liking. Read more about keybindings in VSCode [her
 - [rescript-intro](https://github.com/mellson/rescript-intro) - A calculator Using ReScript, React + Tailwind.
 - [Fire Emblem Chess](https://github.com/yangdanny97/fire-emblem-chess) - A pass & play chess game using ReScript, D3, and Howler [(demo)](https://yangdanny97.github.io/fire-emblem-chess/)
 - [Pick a color](https://github.com/eldh/pick-a-color) - A modern color picker based on the LCH color model. Utilizes React concurrent mode. [(demo)](https://eldh.github.io/pick-a-color)
+- [Pixel Papercraft Generator Builder](https://github.com/pixelpapercraft/pixel-papercraft-generator-builder) - Generator builder for Pixel Papercraft. [(demo)](https://www.pixelpapercraft.com)
 
 ---
 
