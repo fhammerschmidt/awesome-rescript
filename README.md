@@ -46,6 +46,7 @@ A collection of awesome things about the ReScript programming language and toolc
 A lot of posts can be found via the [#rescript tag on dev.to](https://dev.to/t/rescript). So please check first, if a post is also there to keep this list small.
 Roughly sorted from newest to oldest. But some posts have no date, get updated sometimes or are collection links.
 
+- [Practical ReScript](https://practicalrescript.com/) by [@ostera](https://github.com/ostera)
 - [From TypeScript to ReScript](https://www.greyblake.com/blog/from-typescript-to-rescript) by [@greyblake](https://github.com/greyblake)
 - [Full-stack ReScript. Architecture Overview](https://fullsteak.dev/posts/fullstack-rescript-architecture-overview) by [@nkrkv](https://github.com/nkrkv/)
 - [ReScript for React Development](https://scalac.io/blog/rescript-for-react-development/) by [@mishaszu](https://github.com/mishaszu)
