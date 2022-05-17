@@ -64,6 +64,8 @@ Roughly sorted from newest to oldest. But some posts have no date, get updated s
 - [ReScript Tutorial by protoship.io](https://github.com/protoship/rescript-tutorial)
 - [ReScript GraphQL Tutorial by hasura](https://hasura.io/learn/graphql/rescript-react-apollo/introduction/)
 - [Bindings cookbook by ReScriptBR](https://github.com/rescriptbr/rescript-bindings-cookbook)
+- [ReScript video tutorial by Robert Bertram](https://www.youtube.com/playlist?list=PLKUvTphkugkaOvV-VJWSSeVdOg3y4nyOl)
+- [ReScript/React video tutorial by Robert Bertram](https://www.youtube.com/playlist?list=PLKUvTphkugkZ0MW4jtEq0bwqlN0RYLyRK)
 
 ### Talks, Videos, Livestreams
 
