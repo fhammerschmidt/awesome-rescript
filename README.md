@@ -69,6 +69,7 @@ Roughly sorted from newest to oldest. But some posts have no date, get updated s
 
 ### Talks, Videos, Livestreams
 
+- 2021/08 - [Harry Wolff] - [What is ReScript?](https://youtu.be/kAWP0laFz6M)
 - 2021/04 - [@tom-sherman](https://github.com/tom-sherman) - NorfolkDevelopers - [Should you consider ReScript over Typescript for your next project?](https://youtu.be/XWgL51JSbGI)
 - 2020/10 - [@IwanKaramazow](https://github.com/IwanKaramazow) and [@serras](https://github.com/serras) - 47 Degrees - [Immutable Conversations - ReScript](https://youtu.be/IlykOL4Z0gw)
 
