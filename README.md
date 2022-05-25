@@ -73,6 +73,9 @@ Roughly sorted from newest to oldest. But some posts have no date, get updated s
 - 2021/04 - [@tom-sherman](https://github.com/tom-sherman) - NorfolkDevelopers - [Should you consider ReScript over Typescript for your next project?](https://youtu.be/XWgL51JSbGI)
 - 2020/10 - [@IwanKaramazow](https://github.com/IwanKaramazow) and [@serras](https://github.com/serras) - 47 Degrees - [Immutable Conversations - ReScript](https://youtu.be/IlykOL4Z0gw)
 
+#### ReScript Community Meetings
+- 2022/05 - [ReScript Community Meeting May 2022](https://www.youtube.com/watch?v=t5wAuyXB1IA)
+
 ### Libraries and Bindings
 
 [ReScript Package Index](https://rescript-lang.org/packages)
