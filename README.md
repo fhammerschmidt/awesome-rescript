@@ -58,6 +58,7 @@ Roughly sorted from newest to oldest. But some posts have no date, get updated s
 - [Type-safe bindings in ReScript](https://www.benadamstyles.com/blog/rescript-type-safe-bindings/) by [@benadamstyles](https://github.com/benadamstyles)
 - [Cool Things You Can Do with First-Class Modules in ReScriptReact](https://alexfedoseev.com/blog/dev/2020/cool-things-you-can-do-with-first-class-modules-in-rescript-react) by [@alexfedoseev](https://github.com/alexfedoseev)
 - [Safe Routing in ReScript](https://alexfedoseev.com/blog/dev/2020/safe-routing-in-rescript) by [@alexfedoseev](https://github.com/alexfedoseev)
+- [Series of ReScript posts](https://willcodefor.beer/posts/resreact) by [@believer](https://github.com/believer)
 
 ### Tutorials
 
