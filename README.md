@@ -44,20 +44,25 @@ A collection of awesome things about the ReScript programming language and toolc
 ### Blogposts
 
 A lot of posts can be found via the [#rescript tag on dev.to](https://dev.to/t/rescript). So please check first, if a post is also there to keep this list small.
-Roughly sorted from newest to oldest. But some posts have no date, get updated sometimes or are collection links.
+Roughly sorted from newest to oldest. But some posts have no date or get updated sometimes.
 
-- [Practical ReScript](https://practicalrescript.com/) by [@ostera](https://github.com/ostera)
+
 - [From TypeScript to ReScript](https://www.greyblake.com/blog/from-typescript-to-rescript) by [@greyblake](https://github.com/greyblake)
 - [Full-stack ReScript. Architecture Overview](https://fullsteak.dev/posts/fullstack-rescript-architecture-overview) by [@nkrkv](https://github.com/nkrkv/)
 - [ReScript for React Development](https://scalac.io/blog/rescript-for-react-development/) by [@mishaszu](https://github.com/mishaszu)
 - [A Journey from JavaScript and TypeScript, to Rescript/React, via Elm, OCaml & Haskell.](https://alex.kleydints.com/a-journey-from-javascript-and-typescript-to-rescript-react-via-elm-ocaml-haskell-c878867b6fe6)
-- [Ongoing list of Rescript articles](https://dusty.phillips.codes/rescript/) by [@dusty-phillips](https://github.com/dusty-phillips)
 - [Rewriting a Project in ReScript](https://yangdanny97.github.io/blog/2021/07/09/Migrating-to-Rescript) by [@yangdanny97](https://github.com/yangdanny97)
 - [Responsive images and cumulative layout shift](https://alexfedoseev.com/blog/dev/2021/responsive-images-and-cumulative-layout-shift) by [@alexfedoseev](https://github.com/alexfedoseev)
 - [Lazy Loading Images With ReScript](https://alexfedoseev.com/blog/dev/2021/lazy-loading-images-with-rescript) by [@alexfedoseev](https://github.com/alexfedoseev)
 - [Type-safe bindings in ReScript](https://www.benadamstyles.com/blog/rescript-type-safe-bindings/) by [@benadamstyles](https://github.com/benadamstyles)
 - [Cool Things You Can Do with First-Class Modules in ReScriptReact](https://alexfedoseev.com/blog/dev/2020/cool-things-you-can-do-with-first-class-modules-in-rescript-react) by [@alexfedoseev](https://github.com/alexfedoseev)
 - [Safe Routing in ReScript](https://alexfedoseev.com/blog/dev/2020/safe-routing-in-rescript) by [@alexfedoseev](https://github.com/alexfedoseev)
+
+
+#### Blogpost series
+
+- [Practical ReScript](https://practicalrescript.com/) by [@ostera](https://github.com/ostera)
+- [Ongoing list of Rescript articles](https://dusty.phillips.codes/rescript/) by [@dusty-phillips](https://github.com/dusty-phillips)
 - [Series of ReScript posts](https://willcodefor.beer/posts/resreact) by [@believer](https://github.com/believer)
 
 ### Tutorials
