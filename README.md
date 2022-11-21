@@ -92,7 +92,7 @@ To discover libraries and bindings for ReScript, please use the [official packag
 
 - [Next.js](https://github.com/ryyppy/rescript-nextjs-template) by [@ryyppy](https://github.com/ryyppy)
 - [Remix](https://github.com/tom-sherman/rescript-remix-template) by [@tom-sherman](https://github.com/tom-sherman)
-- [RescriptReact with TailwindCSS template in Webpack](https://github.com/nyinyithann/rescript-react-webpack-tailwind-template)
+- [RescriptReact + TailwindCSS + Webpack](https://github.com/nyinyithann/rescript-react-webpack-tailwind-template) by [@nyinyithann](https://github.com/nyinyithann)
 
 ### Editor Support
 
