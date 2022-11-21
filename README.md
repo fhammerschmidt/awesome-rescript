@@ -92,6 +92,7 @@ To discover libraries and bindings for ReScript, please use the [official packag
 
 - [Next.js](https://github.com/ryyppy/rescript-nextjs-template) by [@ryyppy](https://github.com/ryyppy)
 - [Remix](https://github.com/tom-sherman/rescript-remix-template) by [@tom-sherman](https://github.com/tom-sherman)
+- [RescriptReact with TailwindCSS template in Webpack](https://github.com/nyinyithann/rescript-react-webpack-tailwind-template)
 
 ### Editor Support
 
@@ -153,6 +154,7 @@ Change the keybinding to your liking. Read more about keybindings in VSCode [her
 - [Pixel Papercraft Generator Builder](https://github.com/pixelpapercraft/pixel-papercraft-generator-builder) - Generator builder for Pixel Papercraft. [(demo)](https://www.pixelpapercraft.com)
 - [Rock, Paper, Scissors](https://github.com/Nicolas1st/net-cli-rock-paper-scissors) - A "Rock, Paper, Scissors" CLI game consisting of a server (written in Golang) and a client (ReScript).  
 - [Darklang Editor](https://github.com/darklang/dark/tree/main/client) - A programming language, editor, and cloud environment. The editor is in ReScript.  
+- [Movie and People browsing site](https://github.com/nyinyithann/bioscopes) - A site to browse movies and people from The Movie Database (TMDB). [(demo)](https://www.bioscopes.fun)
 
 ---
 
