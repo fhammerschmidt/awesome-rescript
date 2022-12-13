@@ -76,7 +76,7 @@ Roughly sorted from newest to oldest. But some posts have no date or get updated
 
 ### Talks, Videos, Livestreams
 
-- 2022/09 - [@IwanKaramazow](https://github.com/IwanKaramazow) - [ReScript: digitalising a hospital with the JavaScript from the Future](https://youtu.be/KDL-kRgilkQ)
+- 2022/09 - [@IwanKaramazow](https://github.com/IwanKaramazow) - React Alicante 2022 - [ReScript: digitalising a hospital with the JavaScript from the Future](https://youtu.be/KDL-kRgilkQ)
 - 2021/08 - [@hswolff](https://github.com/hswolff) - [What is ReScript?](https://youtu.be/kAWP0laFz6M)
 - 2021/04 - [@tom-sherman](https://github.com/tom-sherman) - NorfolkDevelopers - [Should you consider ReScript over Typescript for your next project?](https://youtu.be/XWgL51JSbGI)
 - 2020/10 - [@IwanKaramazow](https://github.com/IwanKaramazow) and [@serras](https://github.com/serras) - 47 Degrees - [Immutable Conversations - ReScript](https://youtu.be/IlykOL4Z0gw)
