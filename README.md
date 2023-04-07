@@ -64,6 +64,7 @@ Roughly sorted from newest to oldest. But some posts have no date or get updated
 - [Practical ReScript](https://practicalrescript.com/) by [@ostera](https://github.com/ostera)
 - [Ongoing list of Rescript articles](https://dusty.phillips.codes/rescript/) by [@dusty-phillips](https://github.com/dusty-phillips)
 - [Series of ReScript posts](https://willcodefor.beer/posts/resreact) by [@believer](https://github.com/believer)
+- [Functional Friday: Discovering ReScript](https://mauriziovacca.blogspot.com/2023/03/functional-friday-discovering-rescript.html) by [@MaurizioVacca](https://github.com/MaurizioVacca)
 
 ### Tutorials
 
