@@ -75,6 +75,7 @@ Roughly sorted from newest to oldest. But some posts have no date or get updated
 - [Bindings cookbook by ReScriptBR](https://github.com/rescriptbr/rescript-bindings-cookbook)
 - [ReScript video tutorial by Robert Bertram](https://www.youtube.com/playlist?list=PLKUvTphkugkaOvV-VJWSSeVdOg3y4nyOl)
 - [ReScript/React video tutorial by Robert Bertram](https://www.youtube.com/playlist?list=PLKUvTphkugkZ0MW4jtEq0bwqlN0RYLyRK)
+- [ReScript video tutorial by Exegetech](https://youtube.com/playlist?list=PL0HxFJWEUHWsutPmX-OtD-M3EAmqVQkqb&si=kmsMkJS5ok4Dc6Y5)
 
 ### Talks, Videos, Livestreams
 
